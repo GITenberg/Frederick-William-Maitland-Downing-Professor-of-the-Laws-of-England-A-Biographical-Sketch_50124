@@ -1,4 +1,8 @@
 _repo: Frederick-William-Maitland-Downing-Professor-of-the-Laws-of-England-A-Biographical-Sketch_50124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50124-h/images/cover.jpg
 creator:
   author:
     agent_name: Fisher, H. A. L. (Herbert Albert Laurens)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '36431'
     url: http://www.gutenberg.org/2009/agents/36431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50124#Frederick-William-Maitland-Downing-Professor-of-the-Laws-of-England-A-Biographical-Sketch
 gutenberg_issued: '2015-10-03'
 gutenberg_type: Text
 identifiers:
